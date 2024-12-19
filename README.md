@@ -7,7 +7,7 @@
 <br />
 
 ## 취득 환경 모식도
-수평 거리 3m, 수직 거리 1.5m  
+수평 거리 3m, 수직 거리 1.35m  
 ![image](https://github.com/user-attachments/assets/a7285ccc-b04e-44ca-b001-af2ec01f6c73)  
 <br />  
 
