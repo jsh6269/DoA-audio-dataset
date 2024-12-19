@@ -1,4 +1,5 @@
 # 2024 Deep Learning Dataset
+작성자: 컴퓨터공학부 장수한  
 - 1160개의 음성 데이터를 직접 취득
 - 2 channel audio, 반향음 없음, 야외에서 녹음
 - 0도 ~ 180도 사이에서 20도 각도로 class를 구분함 (10개 class)
